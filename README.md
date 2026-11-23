@@ -103,6 +103,12 @@ Interactive case studies, a 3D project viewer, and experiments in a more express
 
 <br/>
 
+<div align="center">
+  <img src="./assets/build-signal.svg" alt="Animated process: Imagine, Engineer, Ship" width="100%" />
+</div>
+
+<br/>
+
 ### THE WAY I BUILD <sup>↘</sup>
 
 ```text
