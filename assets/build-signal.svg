@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="128" viewBox="0 0 1000 128" role="img" aria-label="Animated signal of product ideas becoming working software">
+<rect width="1000" height="128" rx="14" fill="#101d1a"/>
+<defs><style>
+.line{stroke-dasharray:7 11;animation:move 2s linear infinite}
+.b1{animation:blink 3s ease-in-out infinite}.b2{animation:blink 3s ease-in-out 1s infinite}.b3{animation:blink 3s ease-in-out 2s infinite}
+@keyframes move{to{stroke-dashoffset:-72}}@keyframes blink{0%,100%{opacity:.2}45%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.line,.b1,.b2,.b3{animation:none}}
+</style></defs>
+<path class="line" d="M262 63H408M591 63H738" stroke="#D7FF85" stroke-width="2" fill="none"/>
+<g fill="#D7FF85" font-family="monospace" font-size="16"><text x="46" y="58">01 / IMAGINE</text><text x="438" y="58">02 / ENGINEER</text><text x="764" y="58">03 / SHIP</text></g>
+<g fill="#94AA9D" font-family="monospace" font-size="12"><text x="46" y="82">shape the problem</text><text x="438" y="82">make it work</text><text x="764" y="82">learn &amp; iterate</text></g>
+<circle class="b1" cx="240" cy="62" r="4" fill="#D7FF85"/><circle class="b2" cx="574" cy="62" r="4" fill="#D7FF85"/><circle class="b3" cx="965" cy="62" r="4" fill="#D7FF85"/>
+</svg>
