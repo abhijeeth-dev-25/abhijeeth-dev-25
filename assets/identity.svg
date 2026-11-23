@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+<title id="title">Abhijeethkar Geddam — engineer the experience</title>
+<desc id="desc">A dark editorial-style developer identity card with a technical orbital illustration.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#11191A"/><stop offset="1" stop-color="#071011"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#D9EFDD" stop-opacity=".65"/><stop offset="1" stop-color="#D9EFDD" stop-opacity=".04"/></linearGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A8C2B9" opacity=".17"/></pattern>
+ <clipPath id="cut"><rect width="1200" height="540" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#cut)">
+<rect width="1200" height="540" fill="url(#bg)"/>
+<rect width="1200" height="540" fill="url(#dots)"/>
+<path d="M40 83H1160M40 452H1160" stroke="#8DA99E" stroke-opacity=".3"/>
+<text x="48" y="56" fill="#C6D8CD" font-size="15" font-family="monospace" letter-spacing="3">AG / 25</text>
+<text x="600" y="56" fill="#9AAC9F" font-size="13" font-family="monospace" text-anchor="middle" letter-spacing="2">AN INDEPENDENT BUILDER'S DESK</text>
+<circle cx="1126" cy="48" r="5" fill="#D7FF85"/>
+<text x="1109" y="53" fill="#C6D8CD" font-size="12" font-family="monospace" text-anchor="end">OPEN TO IDEAS</text>
+<path d="M48 145H143" stroke="#D7FF85" stroke-width="3"/>
+<text x="48" y="181" fill="#D7FF85" font-family="monospace" font-size="14" letter-spacing="3">DESIGN-MINDED ENGINEER</text>
+<text x="42" y="273" fill="#F1F2E9" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="75" letter-spacing="-4">I make ideas</text>
+<text x="42" y="360" fill="#F1F2E9" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="75" letter-spacing="-4">feel <tspan fill="#D7FF85">real.</tspan></text>
+<text x="48" y="411" fill="#ADC0B5" font-family="monospace" font-size="16">Interface craft   /   Systems thinking   /   Product engineering</text>
+<g transform="translate(936 266)">
+ <circle r="194" stroke="#A8C2B9" stroke-opacity=".15" fill="none"/>
+ <circle r="150" stroke="#A8C2B9" stroke-opacity=".3" fill="none"/>
+ <circle r="106" stroke="#A8C2B9" stroke-opacity=".3" fill="none"/>
+ <circle r="64" stroke="#D7FF85" stroke-opacity=".6" fill="none"/>
+ <circle r="12" fill="#D7FF85"/>
+ <path d="M-189 0H189M0 -189V189" stroke="#A8C2B9" stroke-opacity=".2" stroke-dasharray="3 7"/>
+ <path d="M-149 0A149 149 0 0 1 0 -149" fill="none" stroke="#D7FF85" stroke-width="3" stroke-linecap="round"/>
+ <path d="M75 75A106 106 0 0 1 -75 75" fill="none" stroke="#E8F6E8" stroke-width="2" stroke-linecap="round"/>
+ <circle cx="0" cy="-149" r="6" fill="#D7FF85"/>
+ <circle cx="75" cy="75" r="5" fill="#E8F6E8"/>
+ <rect x="-44" y="-18" width="88" height="36" rx="18" fill="#172423" stroke="#D7FF85" stroke-opacity=".6"/>
+ <text x="0" y="5" font-family="monospace" fill="#E6F7DB" font-size="14" text-anchor="middle">BUILD()</text>
+</g>
+<text x="48" y="495" fill="#F1F2E9" font-family="monospace" font-size="16" letter-spacing="2">ABHIJEETHKAR GEDDAM</text>
+<text x="1151" y="495" fill="#93A79A" font-family="monospace" font-size="14" text-anchor="end" letter-spacing="2">HYDERABAD / INDIA  ·  001</text>
+<path d="M48 513H1152" stroke="#D7FF85" stroke-opacity=".3"/>
+</g></svg>
