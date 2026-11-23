@@ -8,7 +8,7 @@
 <tr>
 <td width="64%" valign="top">
 
-### Hey, I'm Abhi. <sup>✳</sup>
+### Hey, I'm Abhijeeth. <sup>✳</sup>
 
 I like the space where **a useful idea becomes a product people actually want to use.**
 
